@@ -18,6 +18,10 @@
     margin: auto;
 }
 
+.footer{
+    height: 245px;
+}
+
 h1 {
 	color:green;
      text-align:center;
@@ -86,3 +90,9 @@ p {
 }
 
 /* Hardware */
+
+/* Pioneer */
+p > img{
+    float: left;
+    padding: 20px;
+}
