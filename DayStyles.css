@@ -1,0 +1,44 @@
+*
+      Author: Derek   
+      Date: 11/6/2016     
+      Purpose:  CSS template
+*/
+#page 1
+body {
+	background-color: lightblue; 
+}
+
+h1 {
+	color:green;
+     text-align:center;
+	 font-family: Arial
+	 line-height: 150%
+}
+
+a {
+	color: blue;
+}
+
+p {
+    color: red;
+}
+
+
+
+a:link {text-decoration: underline; color: #0000FF;}
+a:visited {text-decoration: underline; color: #800000;}
+a:hover {text-decoration: underline; color: red;}
+a:active {text-decoration: underline; color: maroon;}
+
+h2 {color: purple;
+}
+
+ol {color: blue;
+}
+
+h3 {color: red;
+}
+
+p {color: black;
+}
+
