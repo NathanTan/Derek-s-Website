@@ -6,6 +6,7 @@
 
 .page {
 	background-color: lightblue; 
+    padding: -50px;
 
 }
 
@@ -20,6 +21,11 @@
 
 .footer{
     height: 245px;
+}
+
+body{
+    background-color: #9dd0e1;
+    z-index: -5;
 }
 
 h1 {
@@ -58,6 +64,7 @@ ol {
 
 h3 {
     color: red;
+    padding-top: 30px;
 }
 
 p {
@@ -72,12 +79,14 @@ p {
 
 #history{
     width: 55%;
+    background-color: #63b4cf;
+    border-radius: 20px;
+    padding: 20px;
 
 }
 
-#3rd-hunk-of-bland-info{
-    width: 20%;
-    
+#alex-title{
+    margin: auto;
 }
 
 .big-boy-words{
@@ -86,7 +95,11 @@ p {
 }
 
 #Acid{
- 
+    float: left;
+    padding: 30px;
+    background-color: #4fabc9;
+    background: #4fabc9;
+    background: -webkit-linear-gradient(left top,#c4e3ed, #8ac7db )
 }
 
 /* Hardware */
